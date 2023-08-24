@@ -1,31 +1,33 @@
  Terminal: Ctrl + Alt + T - Bash
+  1º Detalhes do Nome no Bash:
   senac   = seu usuário
   @       = concaternar
   senac!! = nome do computador
-  -----------------------------------------------
   ~       = alias referência ao seu Home
   $       = referência ao usuário sem direito
   #       = super usuário ---> root: sudo
-  -----------------------------------------------
-  sudo -i ()
-  exit    (sair, atalho Ctrl + D)
-  history (histórico de comandos)
-        ! (executar o comando na linha do history)
-  clear   (limpar a tela, atalho Crtl + L)
-  -----------------------------------------------
-  Pedir ajuda no Linux
-  apt     (ajuda simples)
-  --help  (ajuda resumida do comando)
-  man     (manual do comando)
-  q       (quit)
-  ------------------------------------------------
-  Guia Foca   - PT-BR https://www.guiafoca.org/
-  SS64        - EN https://ss64.com/bash/
-  ------------------------------------------------
-  Comandos de Diretório e Arquivos
-  git clone   (clonar repositório do Github)
-  ls          (listar arquivos ou diretórios)
-  ls -lh      (modo lista detalhado)
-  cd          (mudar de diretório)
+  
+  2º Comandos Básicos
+  sudo -i (Entra no Modo Root/Administrador)
+  history (Histórico de comandos)
+  !       (Executa o comando na linha do history)
+  exit    (Sai da Tela  - Ctrl + D)
+  clear   (Limpa a tela - Ctrl + L)
+  
+  3º Comandos de Auxílio no Linux:
+  apt     (Ajuda simples)
+  --help  (Ajuda resumida do comando)
+  man     (Manual do comando)
+  q       (Sair)
+  
+  4º Comandos de Diretório e Arquivos
+  git clone   (Clona repositório do Github)
+  ls          (Lista arquivos ou diretórios)
+  ls -lh      (Listagem detalhada)
+  cd          (Muda de diretório)
   TAB         (tabular: auto-completar)
   cd ..       (voltar um diretório)
+  
+  Dica: Sites Com Conteúdo Sobre o Linux:
+  Guia Foca   - PT-BR https://www.guiafoca.org/
+  SS64        - EN https://ss64.com/bash/
