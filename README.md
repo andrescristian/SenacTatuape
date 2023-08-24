@@ -12,7 +12,7 @@
 <li>Linux Mint</li>
 <li>Red Hat</li>
   </td>
-  <td><div align="center">  <img width="210" height="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"></div></td>
+  <td><div align="center">  <img width="135" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"></div></td>
   </tr>
 </table>
 
