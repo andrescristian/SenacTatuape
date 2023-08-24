@@ -1,4 +1,4 @@
-<h1 align="center">Senac - Tatuapé/SP</h1>
+<h1 align="center">👍Senac - Tatuapé/SP👍</h1>
 
 ## Conteúdo sobre os Sistemas Operacionais Microsoft Windows e GNU/Linux
 
