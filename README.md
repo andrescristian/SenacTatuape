@@ -19,7 +19,7 @@
             <li>Deepin</li>
             <li>Slackware</li>
         </td>
-        <td><div ">  <img width="670" height="260" src="https://manjarobrasil.files.wordpress.com/2015/08/linux_distros.jpg"></div></td>
+        <td><div ">  <img width="675" height="260" src="https://manjarobrasil.files.wordpress.com/2015/08/linux_distros.jpg"></div></td>
   </tbody>
 </table>
 
