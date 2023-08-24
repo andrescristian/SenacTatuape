@@ -16,7 +16,7 @@
             <li>Linux Mint</li>
             <li>Red Hat</li>
             <li>CentOS</li>
-            <li>Deepin</li>
+            <li>Slax</li>
             <li>Slackware</li>
         </td>
         <td><div ">  <img width="680" height="260" src="https://manjarobrasil.files.wordpress.com/2015/08/linux_distros.jpg"></div></td>
