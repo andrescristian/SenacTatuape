@@ -3,7 +3,7 @@
 <h2 align="center"> Conteúdo sobre os Sistemas Operacionais Microsoft Windows e GNU/Linux</h2>
 
       
-<table border="10">
+<table border="">
   <thead>
   <tr><h3>Distribuições do GNU/Linux :</h3></tr>
   </thead>
@@ -23,7 +23,7 @@
   </tbody>
 </table>
 
-<table border="10">
+<table border="">
       <thead><tr><h3>Versões da Microsoft Windows :</h3></tr></thead>
       <tbody>
             <td>
