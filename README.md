@@ -13,7 +13,7 @@
             <li>Debian</li>
             <li>Fedora</li>
             <li>LinuxMint</li>
-            <li>Mandriva</li>
+            <li>openSUSE</li>
             <li>Red Hat</li>
             <li>CentOS</li>
             <li>Slax</li>
