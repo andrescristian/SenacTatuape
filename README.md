@@ -19,7 +19,7 @@
             <li>Slax</li>
             <li>Slackware</li>
         </td>
-        <td> <div> <img width="680" height="260" src="https://manjarobrasil.files.wordpress.com/2015/08/linux_distros.jpg"></div></td>
+        <td> <div> <img width="850" height="250" src="https://www.unoeste.br/Areas/Eventos/Content/imagens/EventoAnual/886/VersoesLinux.png"></div></td>
   </tbody>
 </table>
 
