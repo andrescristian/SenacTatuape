@@ -12,8 +12,8 @@
             <li>Ubuntu</li>
             <li>Debian</li>
             <li>Fedora</li>
-            <li>openSUSE</li>
             <li>LinuxMint</li>
+            <li>Mandriva</li>
             <li>Red Hat</li>
             <li>CentOS</li>
             <li>Slax</li>
