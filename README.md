@@ -21,7 +21,7 @@
         </td>
         <td> <div> <img width="680" height="260" src="https://manjarobrasil.files.wordpress.com/2015/08/linux_distros.jpg"></div></td>
   </tbody>
-</table><br>
+</table>
 
 <table border="15">
       <thead><tr><h3>Versões da Microsoft Windows :</h3></tr></thead>
