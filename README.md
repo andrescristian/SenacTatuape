@@ -5,7 +5,7 @@
       
 <table border="15">
   <thead>
-  <tr><h2>Distribuições do GNU/Linux :</h2></tr>
+  <tr><h3>Distribuições do GNU/Linux :</h3></tr>
   </thead>
   <tbody>
         <td>
@@ -23,8 +23,8 @@
   </tbody>
 </table><br>
 
-<table>
-      <thead><tr><h2>Versões da Microsoft Windows :</h2></tr></thead>
+<table border="15">
+      <thead><tr><h3>Versões da Microsoft Windows :</h3></tr></thead>
       <tbody>
             <td>
                   <li>Windows 95</li>
@@ -40,10 +40,3 @@
         </tbody>
       
 </table>
-
-
-
-
-
-
-
