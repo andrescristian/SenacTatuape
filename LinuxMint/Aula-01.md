@@ -11,14 +11,13 @@
 
 3º - Atualizando via Linha de Comando<br>
 
-	sudo apt update  	--> MintUpdate Atualizar
-	sudo apt upgrade  	--> MintUpdate Instalar
+	sudo apt update  	--> Atualiza o MintUpdate
+	sudo apt upgrade  	--> Instala o MintUpdate
 	sudo apt full-upgrade
 	sudo apt dist-upgrade
 	sudo apt autoremove
 	sudo apt autoclean
 	sudo apt clean
-	history
 
 <h3>Complemento</h3>
 Pesquise sobre os seguintes termos:<br>
