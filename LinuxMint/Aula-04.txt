@@ -1,0 +1,19 @@
+Detalhes do Github
+
+- Um Diretório é igual a um Repositório
+- No Github:
+- Microsoft = GNU/Linux Open Source
+                         (case sensitive)
+   
+-> Pesquisar:
+Markdown
+1º Sua extensão: .md
+2º O que é README.md no Github
+
+-> Pesquisar: 
+Comando: git - Editor: VSCode(Visual Studio Code)
+ 
+Clonar
+
+sudo apt update
+sudo apt install git vim	
