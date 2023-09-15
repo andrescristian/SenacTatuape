@@ -30,7 +30,7 @@
 					Endereço IP:           192.168.12.10
 					Máscara de sub-rede:   255.255.255.0
 
-<br>3º- Configurando o AD(Active Directory)
+<br>3º- Instalando o AD(Active Directory)
 
 #Para adicionar os Serviços de Domínio Active Directory, acessar:
 
