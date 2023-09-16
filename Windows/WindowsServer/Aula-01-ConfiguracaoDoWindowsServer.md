@@ -1,4 +1,4 @@
-<h3>Instalação do Windows Server 2012 - R2 Datacenter</h3><br>
+<h3 align="center">Instalação do Windows Server 2012 - R2 Datacenter</h3><br>
 
 	1° - Idiomas e teclado: Português PT-BR
 	2° - Colocar a chave de acesso
