@@ -30,7 +30,7 @@
 					Endereço IP:           192.168.12.10
 					Máscara de sub-rede:   255.255.255.0
 
-<br>3º- Instalando o AD(Active Directory)
+<br>3º- Instalação do AD(Active Directory)
 
 #Para adicionar os Serviços de Domínio Active Directory, acessar:
 
@@ -47,3 +47,14 @@
 			Nome do Domínio Raíz: andres.intra  --> Próximo
    				Colocar a "Senha" --> Próximo
        					Próximo --> Próximo --> Próximo --> Próximo --> Instalar (a máquina será reiniciada)
+
+<br> 4º- Instalação do Serviço DNS(Domain Name System)
+
+#Para adicionar o Servidor DNS, acessar:
+
+	Gerenciar
+ 		Adicionar Funções e Recursos
+   			Próximo	--> Próximo
+      				(X) Servidor DNS --> Adicionar Recursos --> Próximo
+	  				Próximo
+       						Instalar
