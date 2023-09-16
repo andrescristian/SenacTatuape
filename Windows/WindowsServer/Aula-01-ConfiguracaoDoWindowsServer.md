@@ -18,19 +18,7 @@
   			Propriedades do Sistema --> Alterar
 				Nome do Computador: SRVANDRES --> OK --> Reiniciar depois
 
-<br>2º- Configurando o Endereço IPv4 do Servidor<br>
-
-#Para mudar o Endereço IPv4, acessar:<br>
-
-	Servidor Local
- 		Ethernet (7º linha) e clicar no sublinhado
-  			Ethernet (Clicar com o botão direito do mouse) --> Propriedades
-   				(Arrastar para baixo) Clicar na opção "Protocolo TCP/IP Versão 4 (TCP/IPv4)"
-					(X) Usar o seguinte endereço IP:
-					Endereço IP:           192.168.12.10
-					Máscara de sub-rede:   255.255.255.0
-
-<br>3º- Instalação do AD(Active Directory)
+<br>2º- Instalação do AD(Active Directory)
 
 #Para adicionar os Serviços de Domínio Active Directory, acessar:
 
@@ -48,7 +36,7 @@
    				Colocar a "Senha" --> Próximo
        					Próximo --> Próximo --> Próximo --> Próximo --> Instalar (a máquina será reiniciada)
 
-<br> 4º- Instalação do Serviço DNS(Domain Name System)
+<br> 3º- Instalação do Serviço DNS(Domain Name System)
 
 #Para adicionar o Servidor DNS, acessar:
 
