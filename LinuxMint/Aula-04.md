@@ -1,4 +1,4 @@
-Detalhes do Github
+<h3 align="center">Detalhes do Github</h3><br>
 
     - Um "Diretório" é igual a um "Repositório"
     - Pode ser acessado no Microsoft Windows e no GNU/Linux
