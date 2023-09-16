@@ -46,3 +46,12 @@
       				(X) Servidor DNS --> Adicionar Recursos --> Próximo
 	  				Próximo
        						Instalar
+
+<br>4º- Instalação do Serviço DHCP(Dynamic Host Configuration Protocol)
+
+	Gerenciar
+ 		Adicionar Funções e Recursos
+   			Próximo	--> Próximo
+      				(X) Servidor DHCP --> Adicionar Recursos --> Próximo
+	  				Próximo
+       						Instalar
