@@ -1,7 +1,6 @@
 Terceira etapa: Instalar software (Linux)<br>
 Microsoft - .EXE ou MSI
 
-	------------
 	Linux Mint: 15 - .DEB   
 
 	Google Chrome - 64bits .deb
