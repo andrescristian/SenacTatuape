@@ -33,5 +33,5 @@
     cd ..      --> Volta um diretório
   
 Dica: Sites Com Conteúdo Sobre o Linux:<br>
-Guia Foca   - PT-BR https://www.guiafoca.org/<br>
-SS64        - EN https://ss64.com/bash/
+<a href="https://www.guiafoca.org/" target="_blanck">Guia Foca - PT-BR </a><br>
+<a href="https://ss64.com/bash/" target="_blanck">SS64 - EN</a> 
