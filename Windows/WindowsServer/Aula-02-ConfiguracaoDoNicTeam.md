@@ -1,6 +1,6 @@
 <h3 align="center">NIC Team - Network Interface Card</h3>
 
-O <em>NIC Team</em> é o equivalente a uma conexão <em>Etherchannel</em>. Ou seja, é uma <ins>conexão de links entre servidor e switch</ins>.<br>
+O <em>NIC Team</em> é o equivalente a uma conexão <em>Etherchannel</em>. Ou seja, é uma <ins>conexão de links entre Servidor e Switch</ins>.<br>
 Cada Link(cabo) tem um Endereço IP, com um balanceamento de cargas entre os cabos
 
 #Para agrupar as placas de rede, acesse:
