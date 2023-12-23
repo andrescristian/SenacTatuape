@@ -3,6 +3,7 @@
 Ctrl + A --> Seleciona tudo
 Ctrl + C --> Copia
 Ctrl + D --> Deleta
+Ctrl + P --> Imprime
 Ctrl + S --> Salva um arquivo
 Ctrl + V --> Colar
 Ctrl + X --> Recorta e cola
