@@ -1,13 +1,14 @@
-#_Criando uma Tabela em um Banco de Dados
+#_Criando um Banco de Dados e uma Tabela no MySQL
 
-    create database Andres;
+    CREATE DATABASE Andres;
 
-    use Andres;
+    USE Andres;
 
-    create table Tbl_Aluno(
-    Idade varchar(30),
-    Nome varchar(30));
+    CREATE TABLE Tbl_Aluno(
+    Idade VARCHAR(30),
+    Nome VARCHAR(30)
+    );
 
-    select*from  Tbl_Aluno;
+    SELECT * FROM Tbl_Aluno;
 
-    insert into Tbl_Aluno (idade, nome) values ('19', 'Andres');
+    INSERT INTO Tbl_Aluno (idade, nome) VALUES ('19', 'Andres');
