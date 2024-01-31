@@ -1,4 +1,4 @@
-#_Criando um Banco de Dados e uma Tabela no MySQL
+-- Criando um Banco de Dados e uma Tabela no MySQL
 
     CREATE DATABASE Andres;
 
