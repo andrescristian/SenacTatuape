@@ -37,5 +37,5 @@ Comandos DTL:    BEGIN, COMMIT, ROLLBACK, TRANSACTION
 
 5º DCL (Linguagem de Controle de Dados)
 - São os comandos que controlam a segurança do Banco de Dados
-Comandos DCL:    GRANT, REVOKE, DENY    
+Comandos DCL:    GRANT, REVOKE, DENY  
 */
