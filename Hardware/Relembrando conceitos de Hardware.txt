@@ -1,0 +1,31 @@
+Relembrando conceitos de Hardware
+
+- Essencialmente, o hardware é a parte física do computador ou dispositivo eletrônico que você pode ver e tocar
+- As principais peças de Hardware são:
+
+1º CPU/Processador "Intel" ou "AMD Ryzen" (Unidade Central de Processamento)
+2º Fonte de alimentação (Lembrar que possui diferentes níveis de certificação)
+3º Placa-mãe
+4º Placa de vídeo "Nvidia"
+5º Memória RAM (Random Access Memory)
+6º Disco rígido (HDD, SSD ou NVME)
+7º Gabinete
+
+
+- Em hardware, existem muitos termos comuns que são importantes entender. Aqui estão alguns dos principais:
+
+1 - CPU (Unidade Central de Processamento): O "cérebro" do computador, responsável por executar instruções e processar dados.
+2 - GPU (Unidade de Processamento Gráfico): Especializada em processar e acelerar gráficos e imagens.
+3 - RAM (Memória de Acesso Aleatório): Memória de curto prazo que o computador utiliza para armazenar dados temporariamente enquanto está em uso.
+4 - Disco Rígido (HDD) e/ou SSD (Unidade de Estado Sólido): Dispositivos de armazenamento permanente para dados, programas e arquivos.
+5 - Placa-mãe: Conecta todos os componentes do computador, como CPU, RAM, GPU e dispositivos de armazenamento.
+6 - Fonte de Alimentação: Fornece energia elétrica para o computador.
+7 - Placa de Vídeo: Responsável pelo processamento de gráficos, especialmente importante para jogos e edição de vídeo.
+8 - Placa de Som: Controla a entrada e saída de áudio do computador.
+9 - Portas de Entrada/Saída (I/O): Conexões físicas para conectar dispositivos externos, como USB, HDMI, Ethernet, etc.
+10 - BIOS (Sistema Básico de Entrada/Saída): Software que inicializa o hardware do computador durante a inicialização.
+11 - Overclocking: Aumentar a velocidade do processador ou da placa gráfica para obter melhor desempenho.
+12 - Drivers: Software que permite que o sistema operacional se comunique com o hardware.
+13 - Placa de Rede: Permite que o computador se conecte a redes locais ou à Internet.
+14 - Cooler (Ventilador): Dissipa o calor gerado pelos componentes do computador para evitar o superaquecimento.
+15 - Cabo SATA: Usado para conectar dispositivos de armazenamento como HDDs e SSDs à placa-mãe.
