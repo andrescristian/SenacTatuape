@@ -29,3 +29,8 @@ Relembrando conceitos de Hardware
 13 - Placa de Rede: Permite que o computador se conecte a redes locais ou à Internet.
 14 - Cooler (Ventilador): Dissipa o calor gerado pelos componentes do computador para evitar o superaquecimento.
 15 - Cabo SATA: Usado para conectar dispositivos de armazenamento como HDDs e SSDs à placa-mãe.
+
+
+Observações:
+- Dissipar o calor é essencial para garantir que esses dispositivos não superaqueçam, o que pode levar a danos nos componentes e redução do desempenho.
+Dissipar significa espalhar algo.
