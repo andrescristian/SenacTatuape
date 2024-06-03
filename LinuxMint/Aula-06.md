@@ -25,7 +25,7 @@
   
     cat -n /etc/services | head -n20
   
-Eu Ramos quero listar o conteúdo do arquivo em :<br>
+"Eu Ramos" quero LISTAR o conteúdo do arquivo em :<br>
   /etc/services  -->  da linha 100 até a 200<br>
   361 = 1 até 99:  excluir<br>
   100 até 200:     manter (visualizar)<br>
