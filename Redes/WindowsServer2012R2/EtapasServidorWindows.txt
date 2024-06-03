@@ -1,0 +1,69 @@
+Criou a VM
+Instalou o Windows Server 
+NIC Team (IP Fixo)
+RAID (Espelhamento 1 - Paridade - 5)
+AD-DS (Controlador de Dominio) Logon Central - DNS
+Criou um OU - Usuários 
+Instalar a Estação de Trabalho - Windos 10 PRO
+DHCP Server
+Testar a Estação de trabalho 
+Clonar a WS
+Testar o DNS ping 172.16.100.10
+             ping ramos.intra
+             nslookup ramos.intra
+Ingressar a Estação de Trabalho no Dominio (AD)
+Testar o LOGON
+Horario de Logon
+Fazer Logon em
+Ingressar a segunda estação no dominio (Trocar o NOME para WS__????___)
+Como apagar uma OU Protegida ???
+
+Criar Usuários (A,B,C,D,E,F) e Grupos (Vendas - Compras - Gerentes)
+	Vendas (A,B,C)
+	Compras(D,E)
+	Gerentes(F)
+Criar Pasta Publica e testar o Acesso
+Compartilhamento e Permissões
+Pastas (Vendas - Compras - Gerentes)
+Pasta Produtos (Vendas R -- Compras RW -- Gerentes RW)
+Criar Pasta dos Setores - Teste de Acesso
+
+
+Script de Logon (Mapeamento e Excutar Programas ou Site)
+Criar os Scripts para Vendas, Compras e Gerentes e testar 
+Pasta Base 
+Testar o acesso dos usuários na Pasta Base
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
