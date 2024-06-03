@@ -19,7 +19,7 @@ Relembrando conceitos de Hardware
 3 - RAM (Memória de Acesso Aleatório): Memória de curto prazo que o computador utiliza para armazenar dados temporariamente enquanto está em uso.
 4 - Disco Rígido (HDD) e/ou SSD (Unidade de Estado Sólido): Dispositivos de armazenamento permanente para dados, programas e arquivos.
 5 - Placa-mãe: Conecta todos os componentes do computador, como CPU, RAM, GPU e dispositivos de armazenamento.
-6 - Fonte de Alimentação: Fornece energia elétrica para o computador.
+6 - Fonte de Alimentação: Fornece energia elétrica para o computador. Converte corrente alternada (AC) para corrente contínua (DC).
 7 - Placa de Vídeo: Responsável pelo processamento de gráficos, especialmente importante para jogos e edição de vídeo.
 8 - Placa de Som: Controla a entrada e saída de áudio do computador.
 9 - Portas de Entrada/Saída (I/O): Conexões físicas para conectar dispositivos externos, como USB, HDMI, Ethernet, etc.
