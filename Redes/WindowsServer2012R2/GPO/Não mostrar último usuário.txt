@@ -1,0 +1,10 @@
+!GPO para não mostrar nome do último usuário
+
+#Para habilitar esta GPO, acessar:
+
+--> Configurações do PC --> Políticas
+  --> Configurações do Windows 
+    --> Configurações de Segurança
+      --> Políticas locais
+	--> Opções de segurança
+	- Logon interativo: não exibir último nome do usuário (Habilitar)

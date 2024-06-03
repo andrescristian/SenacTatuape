@@ -1,0 +1,11 @@
+!Bloquear Conta de Usuário
+
+#Para bloquear a conta de usuário, acessar:
+
+--> Configurações do PC --> Políticas
+  --> Configurações do Windows 
+    --> Configurações de Segurança
+      --> Políticas de Conta
+	  --> Política de bloqueio de conta
+             --> Limite de Bloqueio de conta: 3 tentativas
+	     --> Duração do bloqueio de conta: 1 minuto 	

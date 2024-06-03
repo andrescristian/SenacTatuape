@@ -1,0 +1,9 @@
+!Colocar aviso no logon
+
+#Para habilitar esta GPO, acessar:
+--> Conf. de PC --> Políticas
+  --> Conf. do Windows
+   --> Conf. de segurança --> Políticas locais
+    --> Opçoes de segurança
+      --> logon interativo: Título da mensagem para usuários tentando fazer logon
+	- Habilitar opção: Acesso restrito do SENAC

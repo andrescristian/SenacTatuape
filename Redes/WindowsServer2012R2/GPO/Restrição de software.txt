@@ -1,0 +1,12 @@
+!Restrição de software
+
+#Para habilitar esta GPO, acessar:
+--> Configurações do Usuário --> Políticas
+  --> Configurações do Windows
+    --> Configurações de Segurança
+      --> Políticas de restrição de software
+	- Exibir painel de ações (no canto superior esquerdo, última opção)
+	- Mais ações
+	- Nova política de restrição...
+	- Regras adicionais
+	- (Clicar com o direito do mouse) --> Nova regra de hash --> Procurar app

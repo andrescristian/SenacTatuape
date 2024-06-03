@@ -1,0 +1,17 @@
+!Bloquear ping
+
+#Para habilitar esta GPO, acessar:
+--> Conf. do PC --> Políticas
+  --> Confi. do Windows
+    --> Conf. de segurança
+     --> Firewall do Windows com segurança avançada
+      --> Regras de Entrada (clicar com direito do mouse nesta opção e acessar --> Nova regra)
+	- Personalizado (OK)
+	- Todos os programas (OK)
+	- Tipo de Protocolo: ICMPv4
+	- Configurações ICMP --> Personalizar
+	     - Tipos Especificos (OK) --> Solicitação de Eco (OK) --> Ok --> Avançar
+	- Clicar em Avançar
+	- Bloquear a conexão
+	- Clicar em Avançar
+	- Nome: Bloquear PING --> Concluir

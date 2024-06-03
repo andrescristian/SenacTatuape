@@ -1,0 +1,15 @@
+!Mensagem para Usuário no Login
+
+#Para habilitar esta GPO, acessar:
+
+--> Configuração do Computador --> Políticas
+   --> Configurações do Windows 
+     --> Configurações de Segurança
+       --> Políticas locais
+	 --> Opções de segurança
+	      - Habilitar os itens e escrever mensagens de Login
+
+#Na tela inicial do GPO, acessar:
+
+--> 3° opção
+--> Vincular um GPO existente --> Selecionar esta GPO 
