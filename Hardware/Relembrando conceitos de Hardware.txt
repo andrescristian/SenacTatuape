@@ -44,7 +44,7 @@ potentes ou sistemas de refrigeração líquida. Além disso, o overclock pode a
 permanentes ao hardware.
 
 - Sobre a Fonte de alimentação:
-Converte corrente alternada (AC) para corrente contínua (DC). Isso é necessário porque a maioria dos componentes eletrônicos, como CPUs, placas-mãe, discos rígidos
+Converte corrente alternada (AC) para corrente contínua (DC). Isso é necessário porque a maioria dos componentes eletrônicos, como CPUs, placas-mãe, discos rígidos 
 e unidades de estado sólido, requerem corrente contínua para funcionar corretamente.
 
 - Sobre a Placa de Vídeo:
