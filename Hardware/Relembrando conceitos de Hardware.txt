@@ -39,7 +39,8 @@ Dissipar significa espalhar algo.
 - Sobre o Overclocking:
 Por exemplo, um processador que normalmente opera a 3.0 GHz pode ser overclockado para operar a 3.5 GHz ou mais. Da mesma forma, uma placa de vídeo pode ter sua
 velocidade do clock aumentada para melhorar o desempenho em jogos e aplicativos gráficos exigentes.
-No entanto, o overclock também pode aumentar o consumo de energia e gerar mais calor, o que pode exigir um sistema de resfriamento mais robusto, como coolers mais potentes ou sistemas de refrigeração líquida. Além disso, o overclock pode anular a garantia do componente e, se não for feito com cuidado, pode resultar em danos
+No entanto, o overclock também pode aumentar o consumo de energia e gerar mais calor, o que pode exigir um sistema de resfriamento mais robusto, como coolers mais
+potentes ou sistemas de refrigeração líquida. Além disso, o overclock pode anular a garantia do componente e, se não for feito com cuidado, pode resultar em danos
 permanentes ao hardware.
 
 - Sobre a Fonte de alimentação:
