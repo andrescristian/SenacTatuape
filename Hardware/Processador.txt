@@ -1,0 +1,63 @@
+Processador/CPU (Unidade Central de Processamento)
+
+- Um processador CPU (Unidade Central de Processamento) é o cérebro de um computador. Ele é responsável por executar instruções e processar
+dados, realizando cálculos, tomadas de decisão lógica e controle de todas as operações realizadas pelo computador. A CPU interpreta e
+executa instruções armazenadas na memória do computador, coordenando o funcionamento de todos os componentes para executar programas e
+realizar tarefas. Em resumo, é o componente principal que permite que um computador execute todas as suas funções.
+
+- As principais fabricantes de CPU são: Intel e AMD/Ryzen
+
+- Cada uma dessas fabricantes classificam diferentes níveis/linhas de Processador
+    Intel -->   I3, I5, I7, I9
+    AMD   -->   Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9, Threadripper
+
+#Nomenclatura
+- A nomenclatura de uma CPU é essencial para entender sua Linha, Geração, Performance e Sufixo
+
+- A nomenclatura de um Processador da Intel é:
+    Intel Core i9 2300 KF
+
+    - i9    --> É a linha do processador
+    - 2     --> É a geração do processador  (2º geração)
+    - 300   --> É o nível de performance
+    - KF    --> São os sufixos/letras do processador
+
+#Sufixos dos Processadores da Intel
+1º Sem letras --> Tem vídeo integrado, mas não faz Overclock
+2º  K   --> Permite Overclock
+3º  F   --> Não tem vídeo integrado
+4º  X   --> É da linha Extreme, com melhor performance
+5º  S   --> Tem clock maior, otimizado para performance
+6º  U   --> CPU de notebook, faz baixo consumo de energia
+7º  H   --> CPU de notebook, só que melhor ainda
+8º  G   --> CPU de notebook, tem vídeo integrado
+
+
+#Termos/Especificações do Processador
+
+1º Soquete
+- É o formato físico do Processador. Esse Soquete vai estar escrito na Placa-mãe compatível, na parte do encaixe do Processador 
+Ex: Intel:  LGA 2011-V3, LGA 1200
+    AMD:    AM4, AM5
+    
+2º IHS (Espalhador de Calor Integrado)
+- O IHS é frequentemente feito de cobre ou alumínio
+- Ajuda a proteger o núcleo do processador contra danos mecânicos, e ajuda na dissipação de calor quando um cooler é montado sobre ele.
+
+3º "Clock" ou "Frequência de Operação"
+- É a velocidade em que o processador executa instruções e realiza operações
+- O Clock é medido em hertz (Hz). Hertz mede a frequência com que algo acontece em tempo de 1 segundo
+
+Observação:
+Quanto mais alto o Clock, mais rápido o processador pode realizar tarefas. São mais operações acontecendo por segundo 
+Geralmente é expressa em gigahertz (GHz) para processadores modernos, por causa da alta velocidade de operação 
+Ex: 2.6 Ghz = 2.600.000.000 Hz      (Um Processador trabalha nessa frequência por segundo)
+    3.9 Ghz = 3.900.000.000 Hz
+
+Em breve...
+
+#Núcleos
+
+#Threads
+
+#Cache L1/L2/L3
