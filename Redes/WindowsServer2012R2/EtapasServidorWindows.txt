@@ -33,37 +33,3 @@ Script de Logon (Mapeamento e Excutar Programas ou Site)
 Criar os Scripts para Vendas, Compras e Gerentes e testar 
 Pasta Base 
 Testar o acesso dos usuários na Pasta Base
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
