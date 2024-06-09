@@ -35,16 +35,16 @@ realizar tarefas. Em resumo, é o componente principal que permite que um comput
 
 #Termos/Especificações do Processador
 
-#Soquete
+1º Soquete
 - É o formato físico do Processador. Esse Soquete vai estar escrito na Placa-mãe compatível, na parte do encaixe do Processador 
 Ex: Intel:  LGA 2011-V3, LGA 1200
     AMD:    AM4, AM5
     
-#IHS (Espalhador de Calor Integrado)
+2º IHS (Espalhador de Calor Integrado)
 - O IHS é frequentemente feito de cobre ou alumínio
 - Ajuda a proteger o núcleo do processador contra danos mecânicos, e ajuda na dissipação de calor quando um cooler é montado sobre ele.
 
-#Clock ou "Frequência de Operação"
+3º Clock ou "Frequência de Operação"
 - É a velocidade em que o processador executa instruções e realiza operações
 - O Clock é medido em hertz (Hz). Hertz mede a frequência com que algo acontece em tempo de 1 segundo
 
@@ -54,17 +54,17 @@ Geralmente é expressa em gigahertz (GHz) para processadores modernos, por causa
 Ex: 2.6 Ghz = 2.600.000.000 Hz      (Um Processador trabalha nessa frequência por segundo)
     3.9 Ghz = 3.900.000.000 Hz
 
-#Memória Cache
+4º Memória Cache
 - São pequenas porções de memória muito rápidas que existem dentro do Processador, separado em 3 níveis:
     1º Cache L3 --> Tem maior quantidade de armazenamento, mas é menos rápida das 3 (100 a 360GB/s)
     2º Cache L2 --> Igualmente, rápida  (400 a 1000GB/s)
-    3º Cache L1 --> Separado em 2 tipos: Cache L1 de Dados & Cache L1 de Instruções. Mais rápida das 3 (800 a 400GB/s)
+    3º Cache L1 --> Separado em 2 tipos: Cache L1 de Dados & Cache L1 de Instruções. Mais rápida das 3 (800 a 4000GB/s)
 
 * A letra L significa Level, nível que: 
 Quanto maior for o número(L3), mais perto da Memória RAM (20 a 100GB/s), e é mais lenta a Memória Cache
 Quanto menor for o número(L1), mais perto do Processador, e é mais rápida a Memória Cache
 
-#TDP
+5º TDP
 - Dissipação Térmica do Processador
 - Ou seja, o Consumo em Watts do Processador. Quantos Watts o Processador vai consumir
 - O TDP ajuda a escolher qual a Fonte de Alimentação que vou usar, somando esse TDP com o TDP da Placa de Vídeo
@@ -78,3 +78,9 @@ Ex: Processador XEON    --> TDP de 90W
 Observação:
 Processadores de até 85W de TDP, posso usar com Air Cooler
 Processadores de 95 a 125W de TDP, é melhor usar um Air Cooler muito "parrudo" ou um Water Cooler de 240MM (milímetros)
+
+6º Núcleo
+Em breve...
+
+7º Threads
+Em breve...
