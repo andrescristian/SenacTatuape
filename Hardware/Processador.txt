@@ -32,6 +32,15 @@ realizar tarefas. Em resumo, é o componente principal que permite que um comput
 7º  H   --> CPU de notebook, só que melhor ainda
 8º  G   --> CPU de notebook, tem vídeo integrado
 
+#Sufixos dos Processadores da AMD
+1º  X   --> Alta performance
+2º  T   --> Baixo consumo de energia
+3º  XT  --> Alta performance e clock maior
+4º  G   --> Tem vídeo integrado
+5º  U   --> CPU de notebook
+6º  H   --> CPU de notebook, alta performance
+7º  HX  --> CPU de notebook, só que melhor ainda
+8º  X3D --> Pra alta performance de jogos  
 
 #Termos/Especificações do Processador
 
