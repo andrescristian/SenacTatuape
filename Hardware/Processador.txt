@@ -89,7 +89,11 @@ Processadores de até 85W de TDP, posso usar com Air Cooler
 Processadores de 95 a 125W de TDP, é melhor usar um Air Cooler muito "parrudo" ou um Water Cooler de 240MM (milímetros)
 
 6º Núcleo
-Em breve...
+- Um núcleo do processador é uma unidade de processamento dentro de uma CPU, que executa instruções de um programa
+- Cada núcleo pode executar instruções independentemente dos outros núcleos em processadores multi-core. Isso permite que o processador execute várias tarefas
+simultaneamente, melhorando o desempenho geral do sistema.
+- Quanto mais núcleos um processador tiver, maior será sua capacidade de lidar com cargas de trabalho intensivas.
 
 7º Threads
-Em breve...
+- Threads de processador são unidades de execução dentro de um núcleo de processador. Enquanto um núcleo executa instruções de um programa,
+as threads dentro desse núcleo podem ser usadas para realizar tarefas específicas.
