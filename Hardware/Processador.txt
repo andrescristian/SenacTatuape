@@ -97,3 +97,27 @@ simultaneamente, melhorando o desempenho geral do sistema.
 7º Threads
 - Threads de processador são unidades de execução dentro de um núcleo de processador. Enquanto um núcleo executa instruções de um programa,
 as threads dentro desse núcleo podem ser usadas para realizar tarefas específicas.
+
+Extra:
+ULA (Unidade Lógica Aritmética)
+- É a "calculadora" de um Núcleo de Processador
+- Ela tem 4 partes:
+	Pra dar entrada dos valores de cálculo
+	Pra dar entrada de instruções
+	Pra dar saída do registro da memória cache, pra armazenar os valores que o Processador vai precisar pra calcular 
+	Pra dar saída do resultado
+
+Sobre os Núcleos:
+- Os dados que o Núcleo de um Processador recebe são no formato código binário, usados na ULA
+Quando um Processador diz ter 6 Núcleos, quer dizer que:
+- O Processador tem as condições de fazer simultaneamente(nos 6 Núcleos) esses cálculos (da ULA) em 6x
+	6/12
+	- São 6 Núcleos(Core) Físicos e 12 Threads(O sistema entende que tem 12 Núcleos)
+
+Sobre as Threads:
+- Geralmente ela vem em dobro nas Threads Ativas, ou seja cada um dos Núcleos (6) consegue executar 2 linhas de código binário.
+ 	Ex de Threads Ativas:	6/12, 8/16/ 12/24
+	Ex de Threads Inativas:	6/6, 12/12	
+
+- Uma Thread aumenta 30% da performance de um Núcleo Físico
+- Este termo é bom pra edição e renderização de vídeo, porque quanto mais Núcleos e Threads, melhor é a performance
