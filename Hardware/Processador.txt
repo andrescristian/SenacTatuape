@@ -22,28 +22,18 @@ realizar tarefas. Em resumo, é o componente principal que permite que um comput
     - 300   --> É o nível de performance
     - KF    --> São os sufixos/letras do processador
 
-#Sufixos dos Processadores da Intel
-1º Sem letras --> Tem vídeo integrado, mas não faz Overclock
-2º  K   --> Permite Overclock
-3º  F   --> Não tem vídeo integrado
-4º  X   --> É da linha Extreme, com melhor performance
-5º  S   --> Tem clock maior, otimizado para performance
-6º  U   --> CPU de notebook, faz baixo consumo de energia
-7º  H   --> CPU de notebook, só que melhor ainda
-8º  G   --> CPU de notebook, tem vídeo integrado
+#Sufixos dos Processadores da Intel					#Sufixos dos Processadores da AMD
+1º Sem letras --> Tem vídeo integrado, mas não faz Overclock		1º  X   --> Alta performance
+2º  K   --> Permite Overclock						2º  T   --> Baixo consumo de energia
+3º  F   --> Não tem vídeo integrado					3º  XT  --> Alta performance e clock maior
+4º  X   --> É da linha Extreme, com melhor performance			4º  G   --> Tem vídeo integrado
+5º  S   --> Tem clock maior, otimizado para performance			5º  U   --> CPU de notebook
+6º  U   --> CPU de notebook, faz baixo consumo de energia		6º  H   --> CPU de notebook, alta performance
+7º  H   --> CPU de notebook, só que melhor ainda			7º  HX  --> CPU de notebook, só que melhor ainda
+8º  G   --> CPU de notebook, tem vídeo integrado			8º  X3D --> Pra alta performance de jogos 
 
-#Sufixos dos Processadores da AMD
-1º  X   --> Alta performance
-2º  T   --> Baixo consumo de energia
-3º  XT  --> Alta performance e clock maior
-4º  G   --> Tem vídeo integrado
-5º  U   --> CPU de notebook
-6º  H   --> CPU de notebook, alta performance
-7º  HX  --> CPU de notebook, só que melhor ainda
-8º  X3D --> Pra alta performance de jogos  
 
 #Termos/Especificações do Processador
-
 1º Soquete
 - É o formato físico do Processador. Esse Soquete vai estar escrito na Placa-mãe compatível, na parte do encaixe do Processador 
 Ex: Intel:  LGA 2011-V3, LGA 1200
@@ -56,10 +46,8 @@ Ex: Intel:  LGA 2011-V3, LGA 1200
 3º Clock ou "Frequência de Operação"
 - É a velocidade em que o processador executa instruções e realiza operações
 - O Clock é medido em hertz (Hz). Hertz mede a frequência com que algo acontece em tempo de 1 segundo
-
-Observação:
-Quanto mais alto o Clock, mais rápido o processador pode realizar tarefas. São mais operações acontecendo por segundo 
-Geralmente é expressa em gigahertz (GHz) para processadores modernos, por causa da alta velocidade de operação 
+- Quanto mais alto o Clock, mais rápido o processador pode realizar tarefas. São mais operações acontecendo por segundo 
+- Geralmente é expressa em gigahertz (GHz) para processadores modernos, por causa da alta velocidade de operação 
 Ex: 2.6 Ghz = 2.600.000.000 Hz      (Um Processador trabalha nessa frequência por segundo)
     3.9 Ghz = 3.900.000.000 Hz
 
@@ -84,7 +72,7 @@ Ex: Processador XEON    --> TDP de 90W
     - Assim é bom comprar uma Fonte de 500W ou 400W, sobrando bastante energia:
                     500W - 240W = 260W de sobra de energia
 
-Observação:
+Observações:
 Processadores de até 85W de TDP, posso usar com Air Cooler
 Processadores de 95 a 125W de TDP, é melhor usar um Air Cooler muito "parrudo" ou um Water Cooler de 240MM (milímetros)
 
@@ -98,8 +86,7 @@ simultaneamente, melhorando o desempenho geral do sistema.
 - Threads de processador são unidades de execução dentro de um núcleo de processador. Enquanto um núcleo executa instruções de um programa,
 as threads dentro desse núcleo podem ser usadas para realizar tarefas específicas.
 
-Extra:
-ULA (Unidade Lógica Aritmética)
+8º ULA (Unidade Lógica Aritmética)
 - É a "calculadora" de um Núcleo de Processador
 - Ela tem 4 partes:
 	Pra dar entrada dos valores de cálculo
@@ -107,6 +94,7 @@ ULA (Unidade Lógica Aritmética)
 	Pra dar saída do registro da memória cache, pra armazenar os valores que o Processador vai precisar pra calcular 
 	Pra dar saída do resultado
 
+Observações:
 Sobre os Núcleos:
 - Os dados que o Núcleo de um Processador recebe são no formato código binário, usados na ULA
 Quando um Processador diz ter 6 Núcleos, quer dizer que:
