@@ -1,0 +1,48 @@
+Placa-mãe/Motherboard
+
+Uma placa-mãe, também conhecida como motherboard, é o componente central de um computador. Ela é uma placa de
+circuito impresso que conecta todos os componentes principais de hardware do computador, como processador (CPU), memória RAM,
+unidades de armazenamento (como HDs e SSDs), placas de vídeo, placas de rede, entre outros.
+A placa-mãe serve como uma plataforma que permite a comunicação entre todos esses componentes, garantindo que funcionem em
+conjunto de maneira coordenada e eficiente. Além disso, ela também contém slots e conectores para periféricos adicionais, como
+teclado, mouse, impressoras, entre outros dispositivos.
+
+#Nomenclatura
+Em breve...
+
+#Termos da Placa-mãe
+1º Chipset  
+- Auxilia o Processador. Ela vem integrada à Placa-mãe
+- Ou seja, é um Microprocessador, e ele tem um barramento/link(linha) que chega até o Processador
+- Essa linha (Barramento) em específico, se chama Infinity Fabric (AMD) ou DMI/Interface de Mídia Direta (Intel)
+- Todo Chipset dá a nomenclatura pra Placa-mãe
+Ex:     Placa-mãe   --> Z690 UD DDR4            Placa-mãe   --> X570 Aorus
+        Chipset     --> Z690 (Intel)            Chipset     --> X570 (AMD)
+
+2º Memória ROM
+- É um tipo de memória que permite apenas a leitura de dados 
+- É o firmware da placa-mãe, ou seja, a BIOS
+
+3º POST (Autoteste de inicialização)   
+- É o teste inicial de funcionamento, pra testar se todo o hardware está instalado e funcionando corretamente
+- Atualmente ela é chamada por UEFI (nome da BIOS mais nova)
+
+4º Portas SATA
+- São pra conectar HD, SSD
+
+5º Portas/Slots M2
+- São pra conectar SSD NVME
+- Essas Portas M2 usam a comunicação PCI Express (é a mesma comunicação usada nos slots usados pra conectar a Placa de vídeo)
+
+6º Slots PCI Express
+- Geralmente o 1º é o Slot "PCI Express x16", tem ligação direta com o Processador, e o restante dos Slots PCI Express se conecta ao Chipset
+- Existe 4 tipos de Slots PCI Express:
+    PCI Express x16
+    PCI Express x8
+    PCI Express x4
+    PCI Express x1
+
+7º CI (Circuito Integrado)
+- Os Drivers são instalados no CI de cada componente (placa de som, audio, etc)
+- Todos os CIs vão conversar com o Chipset
+- Super I/O também é um Chipset
