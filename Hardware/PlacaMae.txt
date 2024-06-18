@@ -7,14 +7,34 @@ A placa-mãe serve como uma plataforma que permite a comunicação entre todos e
 conjunto de maneira coordenada e eficiente. Além disso, ela também contém slots e conectores para periféricos adicionais, como
 teclado, mouse, impressoras, entre outros dispositivos.
 
+
 #Nomenclatura
-- Ela está totalmente associada ao Chipset da Placa-mãe
-- Existem Segmentos de Chipset das fabricantes Intel e AMD
-- Segmentos da nomenclatura das Placas-mãe da AMD:
-X - Entusiastas(Melhor)     B - Convencional(Médio)        A - Essencial(Bom)
-X570                        B550                           A320 (Não permite Overclock pra CPU)
-X470                        B450
-X370                        B350
+- Ela está totalmente associada ao Modelo do Chipset da Placa-mãe
+
+#Letras das Placas-mãe pra Processadores AMD:
+
+Letra A --> Entrada/Essencial
+- Não permite Overclock pra CPU, mas permite Overclock de Memória RAM
+- Geralmente tem 2 Slots de Memória
+Ex:     A620
+        A320
+    
+Letra B --> Intermediário/Convencional
+- Permite fazer Overclock do CPU e da Memória RAM
+- Geralmente tem 4 Slots de Memória
+Ex:     B550    
+        B450
+        B350
+
+Letra X --> Topo de linha/Entusiasta
+- Mesmas características da Letra B, só que melhores
+- Vai ter dissipador "parrudo" na parte do VRM
+Ex:     X570                                
+        X470                        
+        X370 
+
+#Letras das Placas-mãe pra Processadores da Intel:
+...
 
 
 #Termos da Placa-mãe
@@ -50,23 +70,3 @@ Ex: 1 bobina, 4 transistores mosfet e 1 capacitor
 
 - Com o Overclock, a energia do Processador pode aumentar de 1,1 Volts para 1,45 Volts
 - Em placas-mãe mais "parrudas", o VRM vem dentro de dissipadores 
-
-
-5º Slots PCI Express
-- Geralmente o 1º é o Slot "PCI Express x16", tem ligação direta com o Processador, e o restante dos Slots PCI Express se conecta ao Chipset
-- Existe 4 tipos de Slots PCI Express:
-    PCI Express x16
-    PCI Express x8
-    PCI Express x4
-    PCI Express x1
-
-6º Slots M.2
-- São pra conectar SSD NVME
-- Essas Portas M2 usam a comunicação PCI Express (é a mesma comunicação usada nos slots usados pra conectar a Placa de vídeo)
-
-7º Portas SATA
-- São pra conectar HD, SSD
-
-8º CI (Circuito Integrado)
-- Os Drivers são instalados no CI de cada porta/entrada (placa de som, audio, etc)
-- Todos os CIs vão conversar com o Chipset
