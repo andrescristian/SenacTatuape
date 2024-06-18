@@ -10,12 +10,12 @@ teclado, mouse, impressoras, entre outros dispositivos.
 #Nomenclatura
 - Ela está totalmente associada ao Chipset da Placa-mãe
 - Existem Segmentos de Chipset das fabricantes Intel e AMD
+- Segmentos da nomenclatura das Placas-mãe da AMD:
+X - Entusiastas(Melhor)     B - Convencional(Médio)        A - Essencial(Bom)
+X570                        B550                           A320 (Não permite Overclock pra CPU)
+X470                        B450
+X370                        B350
 
--> Segmentos da nomenclatura das Placas-mãe da AMD
-Entusiastas (Gamer):     Convencional(Gamer):       Essencial:
-X570                                    B550        A320 (Não permite Overclock pra CPU)
-X470                                    B450
-X370                                    B350
 
 #Termos da Placa-mãe
 1º Chipset  
