@@ -108,4 +108,4 @@ Sobre as Threads:
 	Ex de Threads Inativas:	6/6, 12/12	
 
 - Uma Thread aumenta 30% da performance de um Núcleo Físico
-- Este termo é bom pra edição e renderização de vídeo, porque quanto mais Núcleos e Threads, melhor é a performance
+- Este termo é bom pra edição e renderização de vídeo, porque quanto mais Núcleos e Threads, melhor é a performance do computador
