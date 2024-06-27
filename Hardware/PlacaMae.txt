@@ -10,7 +10,12 @@ teclado, mouse, impressoras, entre outros dispositivos.
 
 #Nomenclatura
 - Ela está totalmente associada ao Modelo do Chipset da Placa-mãe
+Ex:        TUF GAMING X570-PLUS
+        X        --> É o segmento da Placa-mãe                 (Entusiasta/AMD)
+        5        --> Mostra a Série/Geração que o Chipset da Placa-mãe suporta (Série "Ryzen 5000"/AMD)
+        70       --> Diferentes compreensões das fabricantes (No caso da AMD, não indica nada)
 
+-----> AMD
 #Letras das Placas-mãe pra Processadores AMD:
 
 Letra A --> Entrada/Essencial
@@ -33,8 +38,39 @@ Ex:     X570
         X470                        
         X370 
 
-#Letras das Placas-mãe pra Processadores da Intel:
-Em breve...
+#Nº das Placas-mãe para Processadores da AMD:
+- Também são 3 números:
+	- O 1º Nº mostra a "Série" que o Chipset da Placa-mãe suporta
+		Nº 3	--> Suporta a Série Ryzen 1000 de CPU da AMD
+		Ex:	A320/B350/X370
+		Nº 4	--> Suporta a Série Ryzen 2000 de CPU da AMD
+		Ex:	B450/X470
+		Nº 5	--> Suporta a Série Ryzen 5000 de CPU da AMD
+		Ex:	A520/B550/X570
+
+
+
+-----> Intel
+#Letras da Placa-mãe pra Processadores da Intel:
+H --> Entrada
+
+B --> Intermediária
+- Não permite fazer Overclock da CPU, mas permite da Memória
+
+Z --> Topo de Linha
+- Permite Overclock da CPU (com letra K) e da Memória
+- Melhor que as letras H e B
+
+#Nº das Placas-mãe para Processadores da Intel:
+- Geralmente são 3 números:
+	- O 1º nº mostra a "Geração" de CPU que o Chipset da Placa-mãe suporta
+	Nº 4	--> Suporta a 10º Geração de CPU da Intel
+	Ex:	H410
+	Nº 5	--> Suporta a 11º Geração de CPU da Intel
+	Ex:	B560
+	Nº 6	--> Último lançamento...
+	Ex:	Z690
+
 
 
 #Termos da Placa-mãe
