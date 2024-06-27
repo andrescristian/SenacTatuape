@@ -34,7 +34,7 @@ Ex:     X570
         X370 
 
 #Letras das Placas-mãe pra Processadores da Intel:
-...
+Em breve...
 
 
 #Termos da Placa-mãe
