@@ -50,3 +50,17 @@ e unidades de estado sólido, requerem corrente contínua para funcionar correta
 - Sobre a Placa de Vídeo:
 Uma placa de vídeo dedicada é uma unidade de processamento gráfico separada (GPU) que não está integrada ao processador principal (CPU). Essas placas gráficas são
 projetadas especificamente para lidar com o processamento de gráficos e são conectadas à placa-mãe do computador através de slots de expansão, como o PCI Express.
+
+- Sobre a Placa-mãe:
+Placa-mãe Onboard: Uma "placa-mãe onboard" geralmente tem vários componentes integrados diretamente na placa.
+Alguns desses componentes são: Chipset, Controlador de vídeo, Rede integrada(Ethernet), Portas USB, Portas SATA, Slots de memória RAM, etc.
+
+Placa-mãe Offboard: Quando alguém se refere a uma "placa offboard", geralmente estão falando sobre uma placa de expansão que não está integrada 
+diretamente na placa-mãe, mas que é conectada a ela por meio de slots de expansão, como os slots PCIe (Peripheral Component Interconnect 
+Express) ou os slots PCI (Peripheral Component Interconnect).
+Ex: Placas de vídeo/som/rede dedicadas, Placas de expansão de armazenamento (Adicionam mais portas SATA ou M.2 para conectar unidades de
+armazenamento adicionais, como HDDs ou SSDs).
+
+Sites/Aplicativos para consulta de Hardware:
+CPU-Z           --> https://www.cpuid.com/softwares/cpu-z.html
+CoolerMaster    --> https://www.coolermaster.com/pt-br/power-supply-calculator/
