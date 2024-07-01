@@ -1,17 +1,17 @@
 Portas dos Protocolos TCP e UDP
 
-		TCP					UDP			
+	TCP				UDP			
 								
 HTTPS	--> 443			DHCP --> 67/68 
 HTTP	--> 80			DNS  --> 53
-FTP		--> 20/21		NTP  --> 123
+FTP	--> 20/21		NTP  --> 123
 FTPS	--> 989/990		SNMP --> 161
 SMTP	--> 25		
 IMAP	--> 143
 POP3	--> 110
-SSH		--> 22
+SSH	--> 22
 Telnet	--> 23
-SMB		--> 445
+SMB	--> 445
 
 Protocolos Web: HTTP e HTTPS
 Protocolos de Transferência de Arquivos: 	FTP, FTPS e SFTP
