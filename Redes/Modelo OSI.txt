@@ -1,0 +1,40 @@
+Modelo OSI
+
+- OSI (Interconexão de Sistema Abertos)
+- Modelo OSI foi criado para existir compatibilidade entre os Dispositivos
+- Depois foi criado o Modelo TCP/IP com base no Modelo OSI
+- Cada Camada do Modelo OSI têm uma função específica na Rede, que funciona em conjunto com as outras Camadas
+- Ele é divido em 7 Camadas:
+
+7º Aplicação			
+6º Apresentação		Aplicação
+5º Sessão
+4º Transporte		Transporte	
+3º Rede			    Rede
+2º Enlace		
+1º Física		    Acesso à rede
+
+Camada de Aplicação
+- É a interação direta do usuário na internet
+- É a única Camada em que o usuário consegue alterar, nas Camadas abaixo desta é a Rede que controla
+- Nesta Camada é possível enviar e-mails, transferir arquivos, acessar websites, fazer conexão remota entre máquinas(SSH e Telnet)
+- Nesta Camada estão os Protocolos TCP & UDP: DNS, HTTP, HTTPS, FTP, SNMP, etc.
+
+Camada de Apresentação
+- Esta Camada formata os dados para a Camada de Aplicação
+- Esta Camada faz a Criptografia desses dados, se necessário (ASCII, EBCDIC, o HTTPS usa SSL E TLS)
+- Também define o Idioma
+ 
+Camada de Sessão
+- Inicia e termina a conexão de rede
+
+Camada de Transporte
+- Define se a conexão é confiável ou não
+- TCP é confiável, UDP não
+- Exemplos: 
+TCP --> Envio de transações bancárias
+UDP --> Streaming de Videos
+
+Camada de Roteamento
+- Define qual o tipo de Roteamento vou usar
+- Fornece o roteamento dos pacotes entre o dispositivo de origem e destino

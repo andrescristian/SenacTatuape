@@ -1,0 +1,29 @@
+Portas dos Protocolos TCP e UDP
+
+		TCP					UDP			
+								
+HTTPS	--> 443			DHCP --> 67/68 
+HTTP	--> 80			DNS  --> 53
+FTP		--> 20/21		NTP  --> 123
+FTPS	--> 989/990		SNMP --> 161
+SMTP	--> 25		
+IMAP	--> 143
+POP3	--> 110
+SSH		--> 22
+Telnet	--> 23
+SMB		--> 445
+
+Protocolos Web: HTTP e HTTPS
+Protocolos de Transferência de Arquivos: 	FTP, FTPS e SFTP
+Protocolos de e-mail: SMTP, POP3 e IMAP
+Protocolos de Sistemas de Nomes: DNS
+Protocolos de Acesso Remoto: SSH e Telnet
+Protocolos de Configuração de Hosts: DHCP 
+
+
+Camadas do Modelo TCP/IP:
+
+4 - Camada de Aplicação		--> SSH, DNS, DHCP, SMTP...
+3 - Camada de Transporte	--> TCP ou UDP
+2 - Camada de Internet		--> ICMP, IGMP, IPv4, IPv6...
+1 - Camada de Acesso à rede 	--> Ethernet, ARP, STP, CDP...
