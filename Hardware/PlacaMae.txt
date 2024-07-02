@@ -105,4 +105,37 @@ bobinas                     --> São retângulos cinzas (Fases de alimentação)
 Ex: 1 bobina, 4 transistores mosfet e 1 capacitor
 
 - Com o Overclock, a energia do Processador pode aumentar de 1,1 Volts para 1,45 Volts
-- Em placas-mãe mais "parrudas", o VRM vem dentro de dissipadores 
+- Em placas-mãe mais "parrudas", o VRM vem dentro de dissipadores
+
+
+5º Conector 24 pinos ATX
+- É onde se conecta a Fonte de Alimentação
+- Aqui a fonte alimenta as peças com:
+        - 5V
+        - 12V
+        - 3,3V
+
+6º Conector PWM (4 Pinos)
+- Esse conector é usado pra alimentar as FANs ao ventilarem
+
+7º Conector RGB
+- São pinos da cor branca para uso do RGB LED
+
+8º Conector M.2
+- São pra conectar o SSD NVME
+- Geralmente pode ter até 3 conectores
+- Essas Portas M2 usam a comunicação PCI Express (é a mesma comunicação usada nos slots usados pra conectar a Placa de vídeo)
+
+9º Conectores SATA
+- São os conectores pra Dados
+- Geralmente pode ter até 6 conectores, usados pra conectar o HD ou SSD M.2
+
+10º Painel Frontal
+- Ela é conectada por 4 pinos:
+        - Power LED (+/-)
+        - HDD LED
+        - RESET Switch
+        - POWER Switch
+- Perto desse Painel, tem um "Speaker" (de 4 pinos)
+        - Esse Speaker vai "bipar" quando a Placa-mãe mandar uma resposta
+        - Essa resposta serve pra identificar algum erro na Placa-mãe (Memória RAM, PCIe, etc. Cada um com um tipo de "bip")
