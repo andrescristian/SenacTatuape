@@ -109,3 +109,20 @@ Sobre as Threads:
 
 - Uma Thread aumenta 30% da performance de um Núcleo Físico
 - Este termo é bom pra edição e renderização de vídeo, porque quanto mais Núcleos e Threads, melhor é a performance do computador
+
+Em análise...
+Cores e Threads
+Core 	= Núcleo Físico (Que existe fisicamente)
+Thread	= Núcleo Lógico	(Que não existe fisicamente)
+
+- Na caixa de venda, o Core vem escrito 1º, e logo depois o Thread (que geralmente vem em dobro)
+Ex:	2/4
+	4/8
+	6/12
+	8/16
+
+- Os Cores (Núcleo Físico) estão realmente no Processador
+- As Threads (Núcleo Lógico) são as linhas de fluxo que o Núcleo Físico suporta
+
+1 Core executa 1 programa por vez. Na computação, só foi possível executar mais de 1 programa ao mesmo tempo com vários Núcleos
+- 1 Core executa 1 tarefa por vez
