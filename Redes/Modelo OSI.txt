@@ -7,9 +7,9 @@ Modelo OSI
 - Ele é divido em 7 Camadas:
 
 7º Aplicação			
-6º Apresentação		Aplicação
+6º Apresentação		 Aplicação
 5º Sessão
-4º Transporte		Transporte	
+4º Transporte		 Transporte	
 3º Rede			    Rede
 2º Enlace		
 1º Física		    Acesso à rede
