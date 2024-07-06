@@ -1,0 +1,45 @@
+Relembrando aulas de Redes de Computadores
+Uma rede de computadores é:
+- Uma rede com vários computadores que conseguem se comunicar
+
+Internet    --> É uma "Rede de Redes". São várias Redes menores (LAN) que se juntam para formar essa "SuperRede" que é a Internet
+- Cada uma das redes menores vai ter diferentes:
+    - Tamanhos
+    - Organização (No sentido de Hierarquia, quem manda e recebe dados)
+    - Topologias  (É a organização física, como os PCs vão ficar dispostos e onde vai ficar o Roteador central)
+
+#Como os Computadores conseguem trocar informações
+- Na realidade, é só conectar o cabo de rede e já funciona a comunicação... Mas é importante saber COMO e PORQUE eles se comunicam
+- E o que deixa esses computadores se comunicarem são os Protocolos, as "Regras"
+
+#Protocolos
+- Os Protocolos são regras (Algumas bem específicas...) que os PCs devem seguir pra se COMUNICAREM ADEQUADAMENTE
+Através desses Protocolos, é possível organizá-los em 2 modelos: O Modelo OSI e o Modelo TCP/IP
+
+#Modelo OSI
+- É um modelo teórico que tem 7 Camadas:
+    Física
+    Enlace
+    Rede
+    Transporte
+    Sessão
+    Apresentação
+    Aplicação
+
+- Em cada Camada vai ter Protocolos(Regras) que vão fazer com que cada uma das Camadas funcione
+
+#Modelo TCP/IP
+- É um modelo que tem 5 Camadas:
+    Física
+    Enlace
+    Rede
+    Transporte
+    Aplicação
+
+- Uma boa analogia de Modelo TCP/IP é a seguinte
+Ex: Quando fazemos uma compra online, o Pacote do produto que compramos vai passar pelo:
+    Caminhão que vai "levar o Pacote até mim"               (Física)
+    Estrada que o caminhão vai passar                       (Enlace)
+    A Rota que o caminhão vai usar                          (Rede)
+    A Porta vai receber o Pacote, com você sabendo ou não   (Transporte)
+    O Pacote em si, aquilo que eu pedi                      (Aplicação) 
