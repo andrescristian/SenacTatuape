@@ -76,15 +76,36 @@ Observações:
 Processadores de até 85W de TDP, posso usar com Air Cooler
 Processadores de 95 a 125W de TDP, é melhor usar um Air Cooler muito "parrudo" ou um Water Cooler de 240MM (milímetros)
 
-6º Núcleo
-- Um núcleo do processador é uma unidade de processamento dentro de uma CPU, que executa instruções de um programa
-- Cada núcleo pode executar instruções independentemente dos outros núcleos em processadores multi-core. Isso permite que o processador execute várias tarefas
-simultaneamente, melhorando o desempenho geral do sistema.
-- Quanto mais núcleos um processador tiver, maior será sua capacidade de lidar com cargas de trabalho intensivas.
+6º Núcleos Físicos e Lógicos(Cores e Threads)
+Core 	= Núcleo Físico (Que existe fisicamente)
+Thread	= Núcleo Lógico	(Que não existe fisicamente)
 
-7º Threads
-- Threads de processador são unidades de execução dentro de um núcleo de processador. Enquanto um núcleo executa instruções de um programa,
-as threads dentro desse núcleo podem ser usadas para realizar tarefas específicas.
+- Na caixa de venda, o Core vem escrito 1º, e logo depois o Thread (que geralmente vem em dobro)
+Ex:	2/4
+	4/8
+	6/12
+	8/16
+
+- Os Cores (Núcleo Físico) estão realmente no Processador
+- As Threads (Núcleo Lógico) são as "linhas de fluxo de microinstruções", que o Core suporta
+        
+1 Core executa 1 programa por vez. Na computação, só foi possível executar mais de 1 programa ao mesmo tempo com vários Núcleos
+- 1 Core executa 1 programa/tarefa por vez
+- Vários Cores executam mais de 1 programa/tarefa ao mesmo tempo
+
+
+- As Threads, como já dito, são linhas de fluxo de microinstruções
+Ex: 4/8 
+    - Cada Core consegue receber duas linhas de fluxo de microinstruções
+
+    Core(4)      Thread(8)
+    I     -->       II
+    I     -->       II
+    I     -->       II
+    I     -->       II    
+
+    - Ou seja, ter Threads otimiza o trabalho no PC. Não quer dizer que uma Thread vai ter a mesma potência que um Core, mas é eficiente
+ 
 
 8º ULA (Unidade Lógica Aritmética)
 - É a "calculadora" de um Núcleo de Processador
@@ -109,20 +130,3 @@ Sobre as Threads:
 
 - Uma Thread aumenta 30% da performance de um Núcleo Físico
 - Este termo é bom pra edição e renderização de vídeo, porque quanto mais Núcleos e Threads, melhor é a performance do computador
-
-Em análise...
-Cores e Threads
-Core 	= Núcleo Físico (Que existe fisicamente)
-Thread	= Núcleo Lógico	(Que não existe fisicamente)
-
-- Na caixa de venda, o Core vem escrito 1º, e logo depois o Thread (que geralmente vem em dobro)
-Ex:	2/4
-	4/8
-	6/12
-	8/16
-
-- Os Cores (Núcleo Físico) estão realmente no Processador
-- As Threads (Núcleo Lógico) são as linhas de fluxo que o Núcleo Físico suporta
-
-1 Core executa 1 programa por vez. Na computação, só foi possível executar mais de 1 programa ao mesmo tempo com vários Núcleos
-- 1 Core executa 1 tarefa por vez
