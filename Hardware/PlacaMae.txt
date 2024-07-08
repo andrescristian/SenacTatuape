@@ -116,7 +116,7 @@ Ex: 1 bobina, 4 transistores mosfet e 1 capacitor
         - 3,3V
 
 6º Conector PWM (4 Pinos)
-- Esse conector é usado pra alimentar as FANs ao ventilarem
+- Esse conector é usado pra alimentar a velocidade das FANs, de acordo com a temperatura do sistema
 
 7º Conector RGB
 - São pinos da cor branca para uso do RGB LED
