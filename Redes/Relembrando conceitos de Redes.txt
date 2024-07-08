@@ -1,0 +1,67 @@
+Relembrando aulas de Redes de Computadores
+Uma rede de computadores é:
+- Uma rede com vários computadores que conseguem se comunicar
+
+Internet    --> É uma "Rede de Redes". São várias Redes menores (LAN) que se juntam para formar essa "SuperRede" que é a Internet
+- Cada uma das redes menores vai ter diferentes:
+    - Tamanhos
+    - Organização (No sentido de Hierarquia, quem manda e recebe dados)
+    - Topologias  (É a organização física, como os PCs vão ficar dispostos e onde vai ficar o Roteador central)
+
+#Como os Computadores conseguem trocar informações
+- Na realidade, é só conectar o cabo de rede e já funciona a comunicação... Mas é importante saber COMO e PORQUE eles se comunicam
+- E o que deixa esses computadores se comunicarem são os Protocolos, as "Regras"
+
+#Protocolos
+- Os Protocolos são regras (Algumas bem específicas...) que os PCs devem seguir pra se COMUNICAREM ADEQUADAMENTE
+Através desses Protocolos, é possível organizá-los em 2 modelos: O Modelo OSI e o Modelo TCP/IP
+
+#Modelo OSI
+- É um modelo teórico que tem 7 Camadas:
+    Física
+    Enlace
+    Rede
+    Transporte
+    Sessão
+    Apresentação
+    Aplicação
+
+- Em cada Camada vai ter Protocolos(Regras) que vão fazer com que cada uma das Camadas funcione
+
+#Modelo TCP/IP
+- É um modelo que tem 5 Camadas:
+    Física
+    Enlace
+    Rede
+    Transporte
+    Aplicação
+
+- Uma boa analogia de Modelo TCP/IP é a seguinte
+Ex: Quando fazemos uma compra online, o Pacote do produto que compramos vai passar pelo:
+    Caminhão que vai "levar o Pacote até mim"               (Física)
+    Estrada que o caminhão vai passar                       (Enlace)
+    A Rota que o caminhão vai usar                          (Rede)
+    A Porta vai receber o Pacote, com você sabendo ou não   (Transporte)
+    O Pacote em si, aquilo que eu pedi                      (Aplicação)
+
+
+Em redes de computadores, há diversos termos fundamentais que são frequentemente utilizados. Aqui estão alguns dos principais:
+
+1 - Protocolo: Conjunto de regras e convenções que permitem a comunicação entre dispositivos em uma rede.
+2 - IP (Internet Protocol): Protocolo usado para identificar e localizar dispositivos em redes IP (Internet Protocol).
+3 - TCP (Transmission Control Protocol): Protocolo de controle de transmissão usado para estabelecer e manter conexões de rede.
+4 - UDP (User Datagram Protocol): Protocolo de datagrama de usuário, usado para enviar datagramas sem garantia de entrega ou ordem.
+5 - DNS (Domain Name System): Sistema de Nomes de Domínio, responsável por traduzir nomes de domínio em endereços IP.
+6 - Router (roteador): Dispositivo de rede que encaminha pacotes de dados entre redes de computadores.
+7 - Switch (comutador): Dispositivo de rede que encaminha dados dentro de uma rede local (LAN).
+8 - Firewall: Sistema de segurança que monitora e controla o tráfego de rede com base em regras de segurança.
+9 - Gateway: Ponto de entrada ou saída entre duas redes que utiliza protocolos diferentes.
+10 - LAN (Local Area Network): Rede de Área Local, que conecta dispositivos em uma área geográfica limitada, como um prédio ou campus.
+11 - WAN (Wide Area Network): Rede de Área Ampla, que conecta redes locais distantes entre si, geralmente através de operadoras de telecomunicações
+12 - VPN (Virtual Private Network): Rede privada virtual, que estabelece uma conexão segura através de uma rede pública, como a Internet.
+13 - DHCP (Dynamic Host Configuration Protocol): Protocolo que permite a atribuição dinâmica de endereços IP e configuração de redes.
+14 - Subnet: Parte de uma rede IP, segmentada para melhor gerenciamento e segurança.
+15 - Packet (pacote): Unidade básica de dados em uma rede de computadores, contendo informações como origem, destino e conteúdo.
+
+Esses termos são essenciais para entender o funcionamento, a configuração e a administração de redes de computadores em diferentes
+contextos e ambientes.
