@@ -42,4 +42,4 @@ Ex: Quando fazemos uma compra online, o Pacote do produto que compramos vai pass
     Estrada que o caminhão vai passar                       (Enlace)
     A Rota que o caminhão vai usar                          (Rede)
     A Porta vai receber o Pacote, com você sabendo ou não   (Transporte)
-    O Pacote em si, aquilo que eu pedi                      (Aplicação) 
+    O Pacote em si, aquilo que eu pedi                      (Aplicação)
