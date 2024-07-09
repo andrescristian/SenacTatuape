@@ -139,3 +139,13 @@ Ex: 1 bobina, 4 transistores mosfet e 1 capacitor
 - Perto desse Painel, tem um "Speaker" (de 4 pinos)
         - Esse Speaker vai "bipar" quando a Placa-mãe mandar uma resposta
         - Essa resposta serve pra identificar algum erro na Placa-mãe (Memória RAM, PCIe, etc. Cada um com um tipo de "bip")
+
+
+#Conexões da Placa-mãe e suas respectivas peças de Hardware
+1º Fonte de Alimentação	-->	Conector ATX 24
+2º Processador		-->	Soquete (AM ou LGA)
+3º Placa de vídeo	-->	Slots PCI Express x16
+4º Memória RAM		-->	Slots de Memória RAM DDR
+5º HDD/SSD SATA		-->	Portas SATA
+6º Gabinete		-->	Painel Frontal (Power Switch, Reset Switch, HDD LED, Power LED +/-)
+7º Air Cooler		-->	Suporte pra CPU FAN & Conector CPU FAN
