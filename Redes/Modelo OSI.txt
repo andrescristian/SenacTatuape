@@ -16,15 +16,14 @@ Modelo OSI
 
 --> O Pacote é o mesmo que Quadros (Camada de Enlace), Datagrama (Camada de Rede), Segmento (Camada de Transporte)
 - Unidades Básicas de cada Camada do Modelo OSI:
-	
-	Aplicação    --> Dados reais (E-mails, Página Web, Arquivos enviados, etc)
-	Apresentação	--> Dados
-	Sessão		     --> Dados
-	Transporte  	--> Segmento
-	Rede		       --> Datagrama
-	Enlace		     --> Quadro
-	Física		     --> Bit
 
+Aplicação	--> Dados	(E-mails, páginas web, arquivos enviados, etc)
+Apresentação	--> Dados
+Sessão		--> Dados
+Transporte	--> Segmento
+Rede		--> Datagrama
+Enlace		--> Quadro
+Física		--> Bit
 
 Camada de Aplicação
 - É a interação direta do usuário na internet
