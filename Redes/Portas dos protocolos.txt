@@ -13,12 +13,12 @@ SSH	--> 22
 Telnet	--> 23
 SMB	--> 445
 
-Protocolos Web: HTTP e HTTPS
-Protocolos de Transferência de Arquivos: 	FTP, FTPS e SFTP
-Protocolos de e-mail: SMTP, POP3 e IMAP
-Protocolos de Sistemas de Nomes: DNS
-Protocolos de Acesso Remoto: SSH e Telnet
-Protocolos de Configuração de Hosts: DHCP 
+Protocolos Web:					HTTP, HTTPS
+Protocolos de Transferência de Arquivos: 	FTP, FTPS
+Protocolos de e-mail: 				SMTP, POP3, IMAP
+Protocolos de Sistemas de Nomes: 		DNS
+Protocolos de Acesso Remoto: 			SSH, Telnet
+Protocolos de Configuração de Hosts: 		DHCP 
 
 
 Camadas do Modelo TCP/IP:
