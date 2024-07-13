@@ -7,12 +7,24 @@ Modelo OSI
 - Ele é divido em 7 Camadas:
 
 7º Aplicação			
-6º Apresentação       Aplicação
+6º Apresentação
 5º Sessão
-4º Transporte       Transporte	
-3º Rede       Rede
+4º Transporte	
+3º Rede
 2º Enlace		
-1º Física      Acesso à rede
+1º Física
+
+--> O Pacote é o mesmo que Quadros (Camada de Enlace), Datagrama (Camada de Rede), Segmento (Camada de Transporte)
+- Unidades Básicas de cada Camada do Modelo OSI:
+	
+	Aplicação    --> Dados reais (E-mails, Página Web, Arquivos enviados, etc)
+	Apresentação	--> Dados
+	Sessão		     --> Dados
+	Transporte  	--> Segmento
+	Rede		       --> Datagrama
+	Enlace		     --> Quadro
+	Física		     --> Bit
+
 
 Camada de Aplicação
 - É a interação direta do usuário na internet
