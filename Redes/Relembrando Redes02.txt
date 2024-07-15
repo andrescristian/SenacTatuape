@@ -1,0 +1,52 @@
+2º Vídeo
+Redes de Computadores é uma rede de "equipamentos conectados"/Dispositivos Finais/Hosts
+Esses equipamentos podem ser: Celular, Tablet, PC, Notebook, Impressora, Tv
+- Todos esses aparelhos estão conectados em um único equipamento que fica mais no meio, que ta fazendo essa conexão entre eles: Switch ou Roteador, usando: 
+"Conexões Guiadas" (Cabo de Rede Ethernet, Fibra Óptica) e "Conexões não-guiadas" (Wifi e Bluetooth)
+
+LAN (Rede de Área Local)
+- LAN é o tipo de Rede que temos em casa
+- Dentro de casa, temos vários aparelhos (TV, PC, Celular...) e um Roteador. 
+- Esse Roteador faz:
+    1º A conexão dos aparelhos de casa com a Internet
+    2º E faz o papel de "Gateway Padrão". Ou seja, o Roteador vai servir como "Porta de Entrada e Saída" pra conectar a LAN (Rede de casa) com o mundo exterior
+
+- Existem várias LANs ao redor do mundo, sejam de outras casas, empresas, faculdades, etc
+- Então, é preciso classificar os tipos de redes de acordo com o TAMANHO:
+    1º LAN (Rede de Área Local)
+    2º MAN (Rede Metropolitana)
+    3º WAN (Rede de Área Abrangente)
+    4º PAN (Rede de Área Pessoal)
+
+
+-- Como já dito bem antes, os Protocolos permitem a comunicação adequada entre os Computadores/Hosts
+- Essa comunicação é feita baseada nos modelos teóricos: Modelo OSI e Modelo TCP/IP
+- A tal da comunicação é quando usamos o Computador/Host pra qualquer coisa, uma comunicação muito rápida organizada por esses Protocolos/
+Camadas
+
+Ex: Camada de Rede
+    - Quando usamos a Internet pra acessar algum jogo, site, etc. Quando digitamos na barra de endereço (URL) o que eu quero acessar, estou
+    fazendo uma Requisição a um Serviço/Aplicação.
+    - Ou seja, estou digitando o Destino que eu quero acessar. Estou enviando uma Requisição ao servidor do site que quero acessar. E ao 
+    mesmo tempo que eu quero acessar uma Aplicação (Site, Destino que eu quero), o Servidor quer saber quem está acessando (Qual a Origem, 
+    qual é o meu Endereço IP)
+
+
+Endereço IP --> É o endereço lógico que o PC tem na sua própria rede. É o nº que identifica o PC pra que ele possa se comunicar
+    - Ele pode ser o IPv4 ou IPv6
+
+- É esse Endereço (Meu e do Servidor) e os outros Endereços (que estão no meio do caminho) que permitem traçar uma Rota/Caminho entre uma
+Origem(Meu Computador/Host) e Destino(Servidor), e fazer essa comunicação sair de um ponto e chegar lá onde precisa pra voltar através 
+dessa mesma Rota (De uma forma muito rápida)
+
+
+-- Na parte em que eu digito algo na URL, eu estou digitando um nome e não um Endereço IP, e ainda assim consigo acessar o Site
+- Isso é possível graças ao Serviço de DNS (Sistemas de Nomes de Domínio), que fica na Camada de Aplicação
+- O DNS faz a conversão do Endereço IP de um serviço, em um nome que os humandos entendem
+Ex:     google.com  -->     8.8.8.8
+        Nome de Domiínio    Endereço IP
+
+
+
+
+Gateway Padrão -->  É a porta de entrada e saída de dados entre 2 diferentes redes. Geralmente é a conexão de uma Rede de Área Local (LAN) com a Internet (Rede de Redes) 
