@@ -45,8 +45,3 @@ dessa mesma Rota (De uma forma muito rápida)
 - O DNS faz a conversão do Endereço IP de um serviço, em um nome que os humandos entendem
 Ex:     google.com  -->     8.8.8.8
         Nome de Domiínio    Endereço IP
-
-
-
-
-Gateway Padrão -->  É a porta de entrada e saída de dados entre 2 diferentes redes. Geralmente é a conexão de uma Rede de Área Local (LAN) com a Internet (Rede de Redes) 
