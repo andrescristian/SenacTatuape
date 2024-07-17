@@ -1,17 +1,20 @@
--- Criando um Banco de Dados e uma Tabela no MySQL
+-- Criando um Banco de Dados no MySQL
+CREATE DATABASE Andres;
 
-    CREATE DATABASE Andres;
+-- Selecionando o Banco de Dados
+USE Andres;
 
-    USE Andres;
-
-    CREATE TABLE Tbl_Aluno(
+-- Criando uma Tabela
+CREATE TABLE Tbl_Aluno(
     Idade VARCHAR(30),
     Nome VARCHAR(30)
-    );
+);
 
-    SELECT * FROM Tbl_Aluno;
+-- Mostrando colunas e dados da Tabela    
+SELECT * FROM Tbl_Aluno;
 
-    INSERT INTO Tbl_Aluno (idade, nome) VALUES ('19', 'Andres');
+-- Inserindo dados na Tabela
+INSERT INTO Tbl_Aluno (idade, nome) VALUES ('19', 'Andres');
 
 /*
 Subconjuntos do Banco de Dados Relacional SQL (Linguagem de Consulta Estruturada)
