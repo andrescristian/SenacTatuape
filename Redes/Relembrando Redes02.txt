@@ -45,3 +45,5 @@ dessa mesma Rota (De uma forma muito rápida)
 - O DNS faz a conversão do Endereço IP de um serviço, em um nome que os humandos entendem
 Ex:     google.com  -->     8.8.8.8
         Nome de Domiínio    Endereço IP
+
+Arquivo em andamento...
