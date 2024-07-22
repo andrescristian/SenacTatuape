@@ -1,4 +1,5 @@
-2º Vídeo
+Relembrando Redes de Computadores - Parte 02
+
 Redes de Computadores é uma rede de "equipamentos conectados"/Dispositivos Finais/Hosts
 Esses equipamentos podem ser: Celular, Tablet, PC, Notebook, Impressora, Tv
 - Todos esses aparelhos estão conectados em um único equipamento que fica mais no meio, que ta fazendo essa conexão entre eles: Switch ou Roteador, usando: 
@@ -42,8 +43,14 @@ dessa mesma Rota (De uma forma muito rápida)
 
 -- Na parte em que eu digito algo na URL, eu estou digitando um nome e não um Endereço IP, e ainda assim consigo acessar o Site
 - Isso é possível graças ao Serviço de DNS (Sistemas de Nomes de Domínio), que fica na Camada de Aplicação
-- O DNS faz a conversão do Endereço IP de um serviço, em um nome que os humandos entendem
+- O DNS faz a conversão do Endereço IP de um serviço, em um nome que os humanos entendem
 Ex:     google.com  -->     8.8.8.8
         Nome de Domiínio    Endereço IP
 
-Arquivo em andamento...
+-- Outro serviço usado na navegação web é o Protocolo HTTP/HTTPS
+- Esse Protocolo faz parte da Camada de Aplicação
+- Esse Protocolo permite o acesso às páginas de hipertexto. É o Protocolo que permite a gente ver as páginas interativas dos sites
+
+-- Quando fazemos uma requisição de alguma página, essa requisição vai seguir uma Rota (Camada de Rede) pra chegar do Servidor pro meu 
+Computador, e vai precisar de um meio de transporte. Nessa parte entram os Protocolos TCP e UDP da Camada de Transporte, responsáveis pela
+forma de transmissão. Ou seja, vão ficar responsáveis em como que essa Requisição vai sair de uma Origem e chegar num Destino 
