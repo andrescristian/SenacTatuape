@@ -49,3 +49,5 @@ UDP --> Streaming de Videos
 Camada de Roteamento
 - Define qual o tipo de Roteamento vou usar
 - Fornece o roteamento dos pacotes entre o dispositivo de origem e destino
+
+Continuação em breve...
