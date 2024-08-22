@@ -13,3 +13,26 @@ Ex: Memória XPG Gammix D30, 8GB, 2666Mhz, DDR4, CL16
     - CL16      --> É a Latência
 
 
+#Clock/Frequência de Operação da Memória RAM
+- Geralmente a frequência que aparece no produto não é totalmente usada. Apenas sua metade é usada
+- Ou seja, na verdade, a verdadeira frequencia de operação de 2666 Mhz seria sua metade, 1333Mhz
+- Isso acontece por causa da Tecnologia DDR, que faz com que 1 ciclo de operação consiga transferir 2 dados em um ciclo
+- Em cada semi-ciclo temos transferencia de 1 dado
+- Então, 1 ciclo só transmite dados 2 vezes
+
+
+
+
+*Observação: 
+Volátil --> Significa mudanças rápidas. A Memória RAM tem um rápido dinamismo
+Hertz   --> É uma unidade de medida que mede a frequência, a quantidade de vezes que uma ação acontece no perído de 1 segundo
+    - Quando essa ação é medida em gráfico, ela é representada como um "Ciclo", que parte do ponto inicial e faz uma "onda" que retorna ao ponto inicial. Ou seja, um "Ciclo de Clock"
+
+    Hz  = 1 vez por segundo
+    Khz = 1.000 vezes por segundo
+    Mhz = 1.000.000 vezes por segundo (Mais usada em GPUs e Memória RAM)
+    Ghz = 1.000.000.000 vezes por segundo (Usado em CPUs)
+
+    - No caso da CPU (Processador), ele trabalha com Instruções em seus ciclos. Essas intruções podem ser cópia de dados da memória, acessando dados da memória RAM, gravando, lendo, trabalho de vai e vem junto com a memória RAM, cálculos, etc
+
+
