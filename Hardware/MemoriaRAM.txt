@@ -21,6 +21,24 @@ Ex: Memória XPG Gammix D30, 8GB, 2666Mhz, DDR4, CL16
 - Então, 1 ciclo só transmite dados 2 vezes
 
 
+#Largura de banda
+- Geralmente ela fica descrita no próprio módulo das Memórias
+- É possível descobrir a Largura de Banda de uma Memória pra saber quantos MB/s (Megabytes por segundo) ela consegue transferir:
+
+(Clock * Largura de Interface de Comunicação) / 8
+
+Ex: 667 Mhz * 64 Bits = 42.688 Bits / 8 = 5336 MB
+
+- Essa "Largura de Interface de Comunicação" é medida em 64 Bits para todas as DRAM com tecnologia DDR
+
+
+
+#Latência (CL - CAS Latency)
+- A Latência são alguns tempos de espera pra memória fazer uma ação (É isso que faz as quedas de largura de banda não serem exatas)
+- Ou Melhor dizendo, são a "Quantidade de Ciclos" da Frequência que são necessários pra alguma ação acontecer (comandos, escrita, leitura da memória, etc)
+
+Quanto mais Frequência e menos Latência, melhor
+
 
 
 *Observação: 
@@ -36,5 +54,9 @@ Hertz   --> É uma unidade de medida que mede a frequência, a quantidade de vez
 
     - No caso da CPU (Processador), ele trabalha com Instruções em seus ciclos. Essas intruções podem ser cópia de dados da memória,
     acessando dados da memória RAM, gravando, lendo, trabalho de vai e vem junto com a memória RAM, cálculos, etc
-
+    - Ou seja, o Processador realiza várias, VÁRIAS EXECUÇÕES MESMO dentro de 1 segundo
+    - Mas nem sempre o Processador que tiver mais Frequência de Operação vai ser melhor, por causa de outras características como o 
+    PCI (Instruções Por Ciclo)
+    - Cada Ciclo/Pulso de Clock que o Processador tem, vai definir quantas Instruções (atividades) ele consegue fazer nesse mesmo Ciclo
+    - Então, quando os Processadores que compararmos serem da mesma geração, arquitetura e familía, ai sim podemos comparar o Clock
 
