@@ -9,6 +9,7 @@ Ctrl + V --> Colar
 Ctrl + X --> Recorta e cola
 Ctrl + Y --> Refaz uma ação
 Ctrl + Z --> Desfaz uma ação
+Ctrl + Shift + Alt + Windows + L  --> Abre a página do Linkedin
 
 Windows + Qualquer seta --> Move a janela pra qualquer direção da tela
 Windows + A --> Abre as notificações do lado direito
