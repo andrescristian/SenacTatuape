@@ -1,14 +1,16 @@
 -- Criando um Banco de Dados no MySQL
-CREATE DATABASE Andres;
+CREATE DATABASE Andres
+DEFAULT CHARACTER SET utf8
+DEFAULT COLLATE utf8_general_ci;
 
 -- Selecionando o Banco de Dados
 USE Andres;
 
 -- Criando uma Tabela
-CREATE TABLE Tbl_Aluno(
+CREATE TABLE IF NOT EXISTS Tbl_Aluno(
     Idade VARCHAR(30),
     Nome VARCHAR(30)
-);
+) DEFAULT CHARSET = utf8;
 
 -- Mostrando colunas e dados da Tabela    
 SELECT * FROM Tbl_Aluno;
