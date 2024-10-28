@@ -1,0 +1,9 @@
+Placa de Vídeo
+A Placa de Vídeo realiza a renderização das imagens e gráficos mostradas no monitor.Ela desempenha um papel crucial em tarefas que exigem
+alto desempenho gráfico, como jogos, edição de vídeo e design gráfico. Placas de vídeo dedicadas geralmente oferecem melhor desempenho do
+que as integradas, pois têm mais recursos e memória dedicada para lidar com esses desafios.
+
+Essa Placa pode ser considerada "unitária":
+O Computador tem sua memória e processamento
+A Placa de Vídeo também tem sua memória e processamento: A GPU e a sua própria memória VRAM (Memória de Acesso Aleatório de Vídeo)
+- A Memória da Placa de Vídeo irá colocar a informação, e essa informação é transferida para a GPU processar
