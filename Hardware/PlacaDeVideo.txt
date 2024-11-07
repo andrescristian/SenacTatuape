@@ -7,3 +7,12 @@ Essa Placa pode ser considerada "unitária":
 O Computador tem sua memória e processamento
 A Placa de Vídeo também tem sua memória e processamento: A GPU e a sua própria memória VRAM (Memória de Acesso Aleatório de Vídeo)
 - A Memória da Placa de Vídeo irá colocar a informação, e essa informação é transferida para a GPU processar
+- Suas principais fabricantes são a NVIDIA e a AMD
+
+Especificações da Placa de Vídeo
+
+- GPU
+Em breve...
+
+- VRAM
+Em breve...
