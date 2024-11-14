@@ -11,8 +11,14 @@ A Placa de Vídeo também tem sua memória e processamento: A GPU e a sua própr
 
 Especificações da Placa de Vídeo
 
-- GPU
-Em breve...
+1º GPU (Unidade de Processameno Gráfico)
+- A GPU de uma placa de vídeo é responsável por processar os dados e gráficos, processando as informações carregadas na
+VRAM. Ela pode realizar cálculos paralelos de forma extremamente eficiente, o que a torna ideal para tarefas gráficas
+complexas, como renderização de jogos ou edição de vídeo.
 
-- VRAM
-Em breve...
+
+2º VRAM (Memória de Acesso Aleatório de Vídeo)
+- A VRAM é uma memória especializada, geralmente de alta velocidade, utilizada para armazenar temporariamente essas
+informações gráficas enquanto a GPU as processa. A VRAM armazena texturas, buffers de quadro (framebuffers), e outros dados
+gráficos necessários para a renderização das imagens. O acesso rápido à VRAM é crucial para garantir que a GPU possa acessar
+as informações de maneira eficiente e sem gargalos, permitindo que a renderização seja fluida e de alta qualidade.
