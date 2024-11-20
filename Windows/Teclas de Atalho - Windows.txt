@@ -12,12 +12,13 @@ Ctrl + Z --> Desfaz uma ação
 
 Windows + Qualquer seta --> Move a janela pra qualquer direção da tela
 Windows + A --> Abre as notificações do lado direito
-Windows + B --> Usa a barra de tarefas(a parte de baixo do notebook)
+Windows + B --> Usa a barra de tarefas (a parte de baixo do notebook)
 Windows + D --> Mostra a área de trabalho
 Windows + E --> Abre o Explorador de Arquivos
 Windows + G --> Faz a gravação da tela da máquina
 Windows + R --> Executar e digitar qualquer programa
 Windows + I --> Abre as configurações gerais do sistema
+Windows + K --> Faz a conexão (sem fio) da tela da máquina com outro dispositivo
 Windows + L --> Abre a tela de login da máquina
 Windows + P --> Mostra os tipos de tela
 Windows + T --> Escolhe qualquer janela aberta
