@@ -10,7 +10,7 @@ Ex: Memória XPG Gammix D30, 8GB, 2666Mhz, DDR4, CL16
     - 8GB       --> É a quantidade de armazenamento
     - 2666Mhz   --> É o Clock / Frequência de operação (2666Mhz ou 2.66Ghz)
     - DDR4      --> É a Tecnologia de Transmissão de Dados
-    - CL16      --> É a Latência
+    - CL16      --> É a Latência (CAS Latency)
 
 
 #Clock/Frequência de Operação da Memória RAM
