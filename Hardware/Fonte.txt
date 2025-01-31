@@ -1,0 +1,26 @@
+PSU - Fonte de Alimentação (Power Supply Unit / Unidade de Fonte de Alimentação)
+
+- A Fonte de Alimentação é uma importante peça de hardware que fornece energia para as demais peças, convertendo
+a Corrente Alternada(AC) vinda da tomada, em Corrente Contínua(DC). Cada Fonte possui suas particularidades que
+estão descritas a seguir
+
+#Características da Fonte de alimentação (PSU)
+- A maioria são do tamanho ATX
+- Selo 80 PLUS		    --> É um selo que determina testes de eficiência
+- Selo da Cybenetics	--> É um selo que determina mais critérios do que apenas a eficiência
+- Fonte Modular		    --> É uma fonte com mais potência, porém sem os cabos pré-integrados (Corsair RM1200X)
+	- Mais fácil de gerenciar o gabinete, limpeza, menos problema de aquecimento
+	- Não misturar cabos de diferentes marcas
+- Fonte não-modular	    --> É uma fonte com os cabos integrados (Corsair CX550)
+- Fonte semi-modular	--> É uma fonte com os principais cabos integrados, e sem cabos a parte (upgrades - CX650M)
+
+#Detalhes extra
+- A Fonte SEMPRE deve ser instalada de cabeça para baixo
+- A Fonte DEVE ser instalada com parafuso sextavada (6 lados)
+- Cabo de 08 Pinos (ou 4 Pinos - 12V) para o Processador
+- Cabo de 24 Pinos para a Fonte
+- Cabo USB 3.0 de 19 Pinos e USB 2.0 (5 em cima, 4 em baixo)
+- Cabos de pares para Painel Frontal (5 em cima, 4 em baixo)
+- Cabo de HD_AUDIO (5 em cima, 4 em baixo)
+- 1 Cabo SATA (formato L, do HDD para Placa-mãe) e 1 Cabo SATA (formato L maior, do HDD para Fonte)
+- 1 Cabo GPU de 08 Pinos (06 + 02 Pinos)
