@@ -1,22 +1,22 @@
 #Comando de Mover (renomear)
   
-    mv ORIGEM DESTINO
+    mv "Arquivo de Origem" "Arquivo de Destino"
   
 #Comando de Copiar
   
-    cp -v ORIGEM DESTINO
+    cp -r "Arquivo de Origem" "Arquivo de Destino"
   
 #Comando de Imprimir Mensagem na Tela
   
-    echo SENAC Tatuapé
-    echo SENAC Tatuapé > SENAC.txt
+    echo "SENAC Tatuapé"
+    echo "SENAC Tatuapé" > SENAC.txt
   
 #Comando para listar o conteúdo do arquivo
   
     cat -n
     cat -n /etc/services
   
-#Comando para listar o conteúdo do arquivo
+#Comandos para listar o começo e fim do conteúdo de um arquivo
 
     head -n20 /etc/services
     tail -n20 /etc/services
