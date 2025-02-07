@@ -1,0 +1,21 @@
+!Como instalar Windows 11 no Desktop/Notebook
+#Pré-Requisitos
+- A Placa-mãe deve possuir o TPM 2.0 (Chip de segurança) e o Secure Boot (Segurança na inicialização do PC)
+
+#Como desabilitar esses Pré-requisitos acima
+Em breve...
+
+1º Criar um PenDrive de instalação
+- Ir ao site oficial da Microsoft
+- Instalar o Sistema Operacinal na sessão do site: "Criar a Mídia de Instalação do Windows 11" (mediacreationtool.exe)
+	- Usar a mídia "Unidade Flash USB" (Download do S.O para o PenDrive)
+	- Escolher o Pendrive (Depois de "Avançar", Download foi concluído)
+
+2º Instalar o PenDrive na máquina
+- Depois dessa etapa, colocar o PenDrive no PC/Notebook e ligar em seguida
+- Enquanto o PC/Notebook estiver ligando, aperte a tecla "F12" ou "Del" pra acessar a BIOS da Placa-mãe
+
+3º Alterar a Ordem de Boot
+- Ao acessar a BIOS, vá para a sessão de "BOOT"
+- Após entrar nessa sessão, alterar a ordem de boot do PenDrive para a 1º Opção. Depois salve as alterações
+- Em seguida, será feito todo o processo de instalação padrão do Windows
